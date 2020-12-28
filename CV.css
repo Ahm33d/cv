@@ -1,0 +1,87 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  width: 1200px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+}
+h1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size:300%;
+  color:	#5B84B1FF;
+  text-align: center;
+  border: 2px solid #C0C0C0;
+  border-radius: 5px;
+  text-shadow: 2px 2px 4px silver;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:140%;
+  color: #FC766AFF;
+  text-align: center;
+  text-shadow: 2px 2px 4px silver;
+
+}
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size:130%;
+  color: #3CB371;
+}
+h4 {
+  font-size:120%;
+  color: #808000;
+}
+ul {
+  list-style-type: circle;
+}
+a:link {
+  color: gray;
+}
+a:visited {
+  color: gray;
+}
+a:hover {
+  color: orange;
+}
+ table{
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+button {
+  border-radius: 12px;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+input {
+  border: 3px solid #4CAF50;
+}
+form {
+   max-width: 64em;
+   margin: auto;
+   max-width: 64em;
+   margin: auto;
+   text-align: center;
+ }
+ table, th, td {
+  border: 5px solid white;
+}
+header {
+  background:#080808;
+}
+footer {
+  text-align: center;
+}
